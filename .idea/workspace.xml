@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ef13372-e04a-42a4-8d41-a3e3534721c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Result.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Result.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Server.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/StoreActor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StoreActor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/StressTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StressTester.java" afterDir="false" />
