@@ -49,6 +49,7 @@ public class StressTester {
         return new Test(testURL.get(), (int) Long.parseLong(count.get()));
     }
 
+
     private CompletionStage<Result> handleTest(Test test) {
         return FutureConverters.toJava(Patterns.ask(this.actorRef, test, 5000))
                                 .thenApply(x -> (TestMsg)x)
